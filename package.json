@@ -1,0 +1,15 @@
+{
+  "name": "mavka-date-startup-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "мавка старт"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mavka": "^0.10.32"
+  }
+}
